@@ -9,7 +9,7 @@ public class ExoCours {
        
        Personne P = new Personne ("Ben Said","Zine El Abidine","Algérien",23);
        
-       System.out.println(P.toString(P));
+       System.out.println(P.toString(P));//P suffit sans écrire explicitement toString()
        
         Personne P2 = new Personne("BenAtia","Mehdi","Moroco",28);
         Personne P3 = new Personne("Salah","Mohammed","Egypte",26);
